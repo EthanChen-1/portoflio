@@ -146,7 +146,7 @@ p {
 .bullet-points li + li {
   margin-top: 0.5rem;
 }
-@media screen and (min-width: 40rem) {
+@media screen and (min-width: 48rem) {
   .skills,
   .hero {
     max-width: 30vw;
